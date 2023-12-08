@@ -3,7 +3,7 @@ module github.com/sourcegraph/conc
 go 1.19
 
 require (
-	github.com/stretchr/testify v1.8.1
+	github.com/stretchr/testify v1.8.4
 	go.uber.org/multierr v1.9.0
 )
 
