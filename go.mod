@@ -6,7 +6,7 @@ require (
 	github.com/docker/distribution v2.8.3+incompatible
 	github.com/fatih/color v1.16.0
 	github.com/spf13/cobra v1.8.0
-	github.com/spf13/viper v1.17.0
+	github.com/spf13/viper v1.18.2
 )
 
 require (
